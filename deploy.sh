@@ -39,7 +39,7 @@ mkdir publicTmp
 echo "Generating site"
 npm run build
 echo "Copying to gh-pages"
-#echo 'i94card.com' >> publicTmp/CNAME
+echo 'www.dialpine.com' >> publicTmp/CNAME
 
 cp -a publicTmp/. ../gh-pages
 # cd ../gh-pages
