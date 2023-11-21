@@ -14,7 +14,7 @@ banner:
 # Features
 features:
   - title: "How it helps you  ?"
-    image: "/images/call-to-action.png"
+    image: "/images/service-3.png"
     content: "An automated phone-based scheduling system is crucial for optimizing efficiency in doctor's offices. It streamlines appointment management, reducing administrative burdens. Real-time updates minimize scheduling conflicts, automated reminders decrease no-shows, and integrated telemedicine enhances flexibility. Along with AI, our technology ensures smoother operations, improving patient experience and allowing healthcare professionals to focus on delivering quality care."
     bulletpoints:
       - "**Specialty Codes** : Allows for different patient codes from new patient to serious patient and with different appointment durations"
