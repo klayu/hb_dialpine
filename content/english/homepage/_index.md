@@ -25,6 +25,6 @@ features:
       - "**Auto Reschdule On Staff PTO**"
     button:
       enable: true
-      label: "Get Started | $9.99"
+      label: "Setup in 10 seconds, honest !"
       link: "https://f1vawp0e5b.execute-api.us-west-2.amazonaws.com/develop/lam-bk-googlework-api/init"
 ---
