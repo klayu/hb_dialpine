@@ -2,11 +2,11 @@
 # Banner
 banner:
   title: "AI based Phone Bookings for Doctors Office and Small Business"
-  content: "**24/7 Phone bookings that seamlessly integrates with Google Calendar, automatically blocks holidays, sends booking and cancellation notifications and automatically adjusts/reschedules appointments based on staff ailability."
-  image: "/images/secid/banner.png"
+  content: "**24/7 Phone bookings** that seamlessly integrates with Google Calendar, automatically blocks holidays, sends booking and cancellation notifications and automatically adjusts/reschedules appointments based on staff ailability."
+  image: "/images/banner.png"
   button:
     enable: true
-    label: "Start (10 seconds)"
+    label: "Setup in 10 seconds, honest !"
     link: "contact"
 # to time compress a video to 15 secs    
 # ffmpeg -i input_video.mp4 -vf "setpts=0.2*PTS" -t 15 -c:v libx264 -c:a aac -strict experimental output.mp4
