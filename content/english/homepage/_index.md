@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "Emergency Contact Card with Quick Call QR Code"
-  content: "**Stay protected with the Customized 2-Contact Emergency Card, a medical alert card with a vibrant red and yellow colors for instant attention during emergencies. It allows you to list emergency contacts, medical conditions, allergies, medications, and more. This credit card-sized life alert card offers quick, reliable information during critical moments. A thoughtful gift for loved ones, providing peace of mind about their safety even when they are not with you**</br></br>Scan the below QR Code on your phone to see what first responders will see."
+  title: "AI based Phone Bookings for Doctors Office and Small Business"
+  content: "**24/7 Phone bookings that seamlessly integrates with Google Calendar, automatically blocks holidays, sends booking and cancellation notifications and automatically adjusts/reschedules appointments based on staff ailability."
   image: "/images/secid/banner.png"
   button:
     enable: true
-    label: "Get Started | $9.99"
+    label: "Start (10 seconds)"
     link: "contact"
 # to time compress a video to 15 secs    
 # ffmpeg -i input_video.mp4 -vf "setpts=0.2*PTS" -t 15 -c:v libx264 -c:a aac -strict experimental output.mp4
