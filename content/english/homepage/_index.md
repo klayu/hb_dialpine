@@ -17,10 +17,11 @@ features:
     image: "/images/service-3.png"
     content: "An automated phone-based scheduling system is crucial for optimizing efficiency in doctor's offices. It streamlines appointment management, reducing administrative burdens. Real-time updates minimize scheduling conflicts, automated reminders decrease no-shows, and integrated telemedicine enhances flexibility. Along with AI, our technology ensures smoother operations, improving patient experience and allowing healthcare professionals to focus on delivering quality care."
     bulletpoints:
-      - "**Specialty Codes** : Allows for different patient codes from new patient to serious patient and with different appointment durations"
+      - "**Patient Severity Codes** : Allows for different patient codes from new patient to serious patient and with different appointment durations"
+      - "**Early Morning & Late Evening** Allows complete flexibilty to reduce the number of appoitments for any time of day."
       - "**Real-Time Availability Updates** The scheduling system offers real-time updates on doctors' availability, allowing patients to choose from open time slots and reducing the likelihood of scheduling conflicts."
-      - "**Automated Appointment Reminders** Patients receive automated reminders via SMS or push notifications, reducing no-shows and ensuring that they are well-prepared for their upcoming appointments."
-      - "**Insurance Check** Thoughtful gift for loved ones, this medical alert card provides reliability during an emergency, as electronic gadgets may fail to provide instant information due to dead batteries, passcodes, or other hindrances."
+      - "**Automated Appointment Reminders** Patients receive automated reminders via SMS notifications, reducing no-shows and ensuring that they are well-prepared for their upcoming appointments."
+      - "**Insurance Check** If patient is calling after a long time, system verifies that their insurance is uptodate."
       - "**Auto Reschdule On Staff PTO**"
     button:
       enable: true
