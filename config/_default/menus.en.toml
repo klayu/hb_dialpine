@@ -61,4 +61,9 @@ weight = 1
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
+weight = 2
+
+[[footer]]
+name = "Terms Of Use"
+url = "tos/"
 weight = 3
