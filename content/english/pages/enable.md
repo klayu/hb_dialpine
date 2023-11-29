@@ -19,13 +19,17 @@ For everyone else, please select **production mode**
 
 <hr>
 
+Please accept Terms of Use before activating Dial Pine service.
+
+<input type="checkbox" class="task-list-item"> I agree to Dial Pine Terms of Use 
+
 ### Versions
 
 {{< button label="Activate Production Mode" link="https://zgbrf7ox4e.execute-api.us-west-2.amazonaws.com/prod/lam-bk-googlework-api/init" style="solid" >}}
 <hr>
 
 {{< notice "tip" >}}
-Only select this if you have receive an email from us asking you to try our **Fresh Mode**
+Only select this if you have received an email from us asking you to try our **Fresh Mode**
 {{< /notice >}}
 
 
