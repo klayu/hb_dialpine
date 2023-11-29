@@ -10,240 +10,165 @@ draft: false
 
 # Privacy Policy
 
-Last updated: September 30, 2023
+Last updated: November 28, 2023
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Your privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
+This Privacy Policy relates to information collected by Klayu LLC. DBA DialPine (referred to in this Privacy Policy as "DialPine" "we" or "us" or "our") through your use of our website and our Services, features, and information available on our website (which are collectively referred to in this Privacy Policy as the "DialPine Service").
 
-## Interpretation and Definitions
+If you do not agree to our use of your personal data in line with this policy, please do not use the DialPine Services.
 
-### Interpretation
+**Scope of this Privacy Policy**
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Please be aware that this Privacy Policy does not govern all the information DialPine may process. Our commitment to customers and service providers is governed by a separate Data Protection Addendum. This Privacy Policy is also incorporated into and governed by our Terms of Use.
+Any capitalized words we use in this Privacy Policy that we haven’t defined here will have the same meaning that they’re given in our Terms of Use.
 
-### Definitions
+Our commitments to employees are governed by our internal employment policies.
 
-For the purposes of this Privacy Policy:
+In all instances we are committed to transparency with our customers, employees, and to protecting your data privacy.
 
-- __Account__ means a unique account created for You to access our Service or parts of our Service.
-- __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+**What Information do we Collect?**
 
+You will be required to establish an account in order to take advantage of certain features of the DialPine Service. If you wish to establish an account you will be required to provide us with information (including personally identifiable information and non-personally identifiable information). In addition, we may obtain your personally identifiable information from you if you identify yourself to us by sending us an e-mail with questions or comments.
 
+Depending on your use of the DialPine Service, we collect two types of information:
+personally identifiable information and non-personally identifiable information.
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Klayu LLC.
+**Personally Identifiable Information**
+Personally identifiable information identifies you or can be used to identify or contact you. Examples of personally identifiable information may include your name, IP address, company name, job title, address, e-mail address, telephone number, and billing and credit card information.
 
+**Non-Personally Identifiable Information**
+Non-personally identifiable information is information, any single item of which, by itself, cannot be used to identify or contact you, which may include demographic information (such as age, profession, company industry, gender, current location, or zip code), IP addresses, browser types, domain names, and statistical data involving the use of the DialPine Service. Certain non-personally identifiable information may be considered a part of your personally identifiable information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information may be considered non-personally identifiable information when they are taken alone or combined only with other non-personally identifiable information (for example, your account preferences).
 
+**Why do we Need your Personal Data?**
+We do not sell any data, including your personal data. We will only collect and process your personal data in accordance with applicable data protection and privacy laws. We need to collect and process certain personal data in order to provide you with access to DialPine. If you registered with us, you will have been asked to check a tick box indicating your agreement to provide this data in order to access our services. This consent provides us with the legal basis we require under applicable law to process your data. You maintain the right to withdraw such consent at any time.
 
-- __Cookies__ are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
+**Information we collect automatically when you use the Services:**
+We collect information about you when you use our Services, such as browsing our websites and taking certain actions within the Services, including:
 
-- __Country__ refers to: California,  United States
+Your use of the Services: We keep track of certain information about you when you visit and interact with any of our Services. This information includes the features you use; the tasks, projects, teams and other links you click on; the type, size and filenames of attachments you upload to the Services; frequently used search terms; and how you interact with others on the Services. We also collect information about the teams and people you work with and how you interact with them, like who you collaborate and communicate with most frequently.
 
-- __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Device and Connection Information: We collect information about your computer, phone, tablet, or other devices you use to access the Services. This device information includes your connection type and settings when you install, access, update, or use our Services. We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data. We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience. How much of this information we collect depends on the type and settings of the device you use to access the Services.
+Cookies and Other Tracking Technologies: DialPine and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices. For more information, please see our Cookies and Tracking policy, which includes information on how to control or opt out of these cookies and tracking technologies.
+Log files: We collect non-personally identifiable information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the DialPine Service. This information may be used to analyze trends, to administer the DialPine Service, to monitor the use of the DialPine Service, and to gather general demographic information. We may link this information to personally identifiable information for these and other purposes, such as personalizing your experience on the DialPine Service, and evaluating the DialPine Service in general.
 
+**Information we receive from other sources**
+We receive information about you from other Service users, from third party services, and from our business and channel partners.
 
+Other users of the Services: Other users of our Services may provide information about you when they submit content through the Services. For example, you may be mentioned by someone else on a task, or a team member may upload content about you to DialPine. We also receive your email address from other Service users when they provide it in order to invite you to the Services. Similarly, an administrator may provide your contact information when they designate you as another administrator for a task, team or an Enterprise or Unlimited Account.
 
-- __Personal Data__ is any information that relates to an identified or identifiable individual.
+Other services you link to your account: We receive information about you when you or your administrator enable third-party apps or integrate or link a third-party service with our Services. For example, you or your administrator may also integrate our Services with other services you use, such as to allow you to access, store, share and edit certain content from a third-party through our Services. For example, you may authorize our Services to access and display files from a third-party document-sharing service within the Services interface. The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
 
+Other partners: We may receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in, and engagement with, our Services and online advertisements, or in cases where you give such third parties permission to share information with us or where the information is publicly available online or through your device or browser data.
+DialPine's use of information received, and DialPine's transfer of information to any other app, from Google APIs will adhere to Google's API Services User Data Policy, including the Limited Use Requirements.
 
+You can access Google API Services User Data Policy here : https://developers.google.com/terms/api-services-user-data-policy
 
+**Your Rights**
 
-- __Service__ refers to the Website.
+**Where and when is information collected?**
 
-- __Service Provider__ means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
-	
+Opt-out: You may contact us anytime to opt-out of: (i) direct marketing communications; (ii) automated decision-making and/or profiling; (iii) our collection of sensitive personal data, if any; or (iv) any new processing of your personal data that we may carry out beyond the original purpose. Please note that your use of some of the platform may be ineffective upon opt-out.
+Access: You may access the data we hold about you at any time by exporting your Team’s data (if you are an admin) or by contacting us directly.
+Amend: You can also contact us to update or correct any inaccuracies in your personal data.
+Move: Your data is portable – i.e. you have the flexibility to move your data to other service providers as you wish.
+Erase and Forget: In certain situations, for example when the data we hold about you is no longer relevant or is incorrect, you can request that we erase your data.
+You may contact us at support@DialPine.com anytime for any other questions you may have about your personal data and our use of such personal data.
 
-- __Usage Data__ refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+**Where will Data be Transferred?**
 
+Your data, including personal data that we collect from you, may be transferred to, stored at and processed by us and other third parties outside the country in which you reside, including, but not limited to the United States, where data protection and privacy regulations may not offer the same level of protection as in other parts of the world. By using our platform, you agree to this transfer, storing or processing subject to the terms of our Data Protection Addendum. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy. Except as otherwise provided in our Data Protection Addendum, your team's project and task data will never be transferred to third parties. The only data we share with third parties is for analytics, error tracking, and marketing.
 
-- __Website__ refers to dialpine.com, accessible from [https://www.dialpine.com](https://www.dialpine.com)
+**How Long will Data be Stored?**
 
-- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+We will only retain your personal data as long as reasonably required for you to use the Site/Application(s) and/or to provide you with the Services unless a longer retention period is required or permitted by law (for example, for regulatory purposes).
 
+**Do we Collect Information from Children under 16 years of age?**
 
+We are committed to protecting the privacy of children. The DialPine Service is not designed for or directed to children under the age of 16. We do not collect personally identifiable information from any person we actually know is under the age of 16.
 
-## Collecting and Using Your Personal Data
+**What do we do with the information we Collect?**
 
-### Types of Data Collected
+In general, we use the information collected to provide you with a great overall experience using the DialPine Service, to help us understand who uses the DialPine Service, for internal operations such as operating and improving the DialPine Service, to contact you for customer service and billing purposes, and to facilitate the delivery of our advertising in some cases.
 
-#### Personal Data
+We use your information to send you a welcome e-mail after you create an account, when you are invited to DialPine, or when you sign up for a demo, webinar or to receive our newsletter. We may also use your information to send other e-mail communication related to the DialPine website and to give you the option to reactivate an inactive account. When required, we will always give you the option to unsubscribe in any email we send you.
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+We may also use the information gathered to perform statistical analysis of user behavior or to evaluate and improve the DialPine Service. We may link some of this information to personally identifiable information for internal purposes or to improve your experience with the DialPine Service.
 
-- Email address
-- First name and last name
-- Phone number
-- Address, State, Province, ZIP/Postal code, City
+**When do we Disclose Information to Third Parties?**
 
+Except as set forth in this Privacy Policy, the Cookie Policy, or the DialPine Data Protection Addendum or as specifically authorized by you, we will not disclose any information to third parties outside of DialPine.
 
-- Usage Data
+Laws and Legal Rights
 
+We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service, to detect fraud, or to protect the safety and/or security of our users, the DialPine Service or the general public. We are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
+We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-#### Usage Data
+Outside Contractors
 
-Usage Data is collected automatically when using the Service.
+We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the DialPine Service, such as hosting, credit card processing and fraud screening, and mailing list hosting for the DialPine Service. In the course of providing products or services to us, these Outside Contractors may have access to information collected through the DialPine Service, including your personally identifiable information. We require that these contractors agree to (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy or the Data Protection Addendum and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted or as required by law. Please see our Data Protection Addendum for more information about subprocessors.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+Sale of Business
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of DialPine or any of its Corporate Affiliates (as defined herein), or that portion of DialPine or any of its Corporate Affiliates to which the Service relates, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding, provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+Affiliates
 
+We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with DialPine, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
+**Does this Privacy Policy apply when I link to other websites or services?**
 
+The DialPine Service may provide you with access to other websites and services. Please be aware that we are not responsible for the privacy practices of any websites or services other than the DialPine Service. We encourage you to read the privacy policies or statements of each and every such website and service. This Privacy Policy applies solely to information collected by us through the DialPine Service.
 
+**Is the information collected through the DialPine Service secure?**
 
+We take precautions to protect the security of your information. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. However, neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. If applicable law imposes any non-disclaimable duty to protect your personally identifiable information, you agree that intentional misconduct will be the standards used to measure our compliance with that duty. For more information about our policies and standards used to ensure security, please see our Security Policy.
 
-#### Tracking Technologies and Cookies
+**Could my Information be Transferred to other Countries?**
 
-We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
+Personally identifiable information collected on the DialPine Service may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and the DialPine Service may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data. To the fullest extent allowed by applicable law, by using the DialPine Service and submitting such information on it, you voluntarily consent to the trans-border transfer and hosting of such information. To the fullest extent allowed by applicable law, if you are a User accessing the DialPine Service from a jurisdiction with laws or regulations governing personal data collection, use, and disclosure that differ from those of the United States, please be advised that all aspects of the DialPine Service are governed by the internal laws of the United States and the State of California, USA, regardless of your location.
 
-- __Cookies or Browser Cookies.__ A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
-- __Web Beacons.__ Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).
+California Privacy Rights
 
-Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. ;
-We use both Session and Persistent Cookies for the purposes set out below:
+DialPine complies with the California Consumer Privacy Act (referred to in this Privacy Policy as “CCPA”) as amended by the California Privacy Rights Act (“CPRA”) as set forth by the State of California. If the CCPA applies to your personal information this Privacy Policy provides you with information regarding how to receive information about our privacy practices, as well as request access to, and deletion of your personal information.
 
-- __Necessary / Essential Cookies__
+DialPine does not sell the personal information we collect. We only share your personal information as described in this Privacy Policy. For detailed information about the personal information we have collected over the last 12 months, and the categories of sources of such information, please see the “Information we collect automatically when you use the Services” and “Information we receive from other sources”. We collect this information for business purposes set forth in the “What do we do with the information we Collect?”. We share this information with the categories of third parties as set forth in the “When do we Disclose Information to Third Parties?” Please note that we do use third-party cookies as further set forth in the “Cookie Policy.”
 
-	Type: Session Cookies
+California consumers may make a request pursuant to their rights under the CCPA by contacting support@DialPine.com. Upon receiving a request, we will verify your request using the information associated with the DialPine Services, including your email address. Government identification may be required. Consumer can also designate an authorized agent to exercise these rights on the consumer’s behalf.
 
-	Administered by: Us
+**What Choices do I have regarding the Collection, Disclosure and Distribution of Personally Identifiable Information?**
 
-	Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
-- __Cookies Policy / Notice Acceptance Cookies__
+Except as otherwise described in this Privacy Policy or in the Data Protection Addendum, we will only use personally identifiable information for the purposes described above, or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by clicking the unsubscribe link included at the bottom of all such communications, by visiting DialPine.com/remove, or by contacting us via email.
 
-	Type: Persistent Cookies
+Do Not Track
+The term "Do Not Track" refers to an HTTP header offered by certain web browsers to request that websites refrain from tracking the user. We take no action in response to Do Not Track requests.
 
-	Administered by: Us
+**Can I update or correct my personally identifiable information?**
 
-	Purpose: These Cookies identify if users have accepted the use of cookies on the Website.
-- __Functionality Cookies__
+The rights you have to request updates or corrections to the information DialPine collects depend on your relationship with DialPine.
 
-	Type: Persistent Cookies
+Customers have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can contact us in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you in our systems (subject to the following paragraph), up to and including by deleting your team. Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-	Administered by: Us
+You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our system. The need to back up our systems to protect information from inadvertent loss means that a copy of in a non-erasable form that will be difficult or impossible for us to locate. Promptly after receiving your request, all personal information stored in databases we actively use, and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as and to the extent reasonably and technically practicable.
 
-	Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+If you are an end user in a Workspace not owned by you and wish to update, delete, or receive any information we have about you, you may do so by contacting the organization who owns your DialPine Workspace.
 
+**How will I know if there are any changes to this Privacy Policy?**
 
+We may revise this Privacy Policy from time to time. We will not make changes that result in significant additional uses or disclosures of your personally identifiable information without notifying you of such changes via email. We may also make non-significant changes to this Privacy Policy that generally will not significantly affect our use of your personally identifiable information, for which an email is not required. We encourage you to check this page periodically for any changes. If any non-significant changes to this Privacy Policy are unacceptable to you, you must immediately contact us and, stop using the DialPine Service until the issue is resolved. Your continued use of the DialPine Service following the posting of non-significant changes to this Privacy Policy constitutes your acceptance of those changes.
 
-For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
+** DialPine AI Additional Terms **
+Please refer to our DialPine AI Additional Terms here : https://www.dialpine.com/ai
 
+**Whom do I Contact if I have any Privacy Questions?**
 
-### Use of Your Personal Data
+If you have any questions or comments about this Privacy Policy or feel that we are not abiding by the terms of this Privacy Policy, please contact our Privacy Agent in any of the following ways:
 
-The Company may use Personal Data for the following purposes:
+– By email: support@DialPine.com
 
-- __To provide and maintain our Service__, including to monitor the usage of our Service.
-- __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- __For the performance of a contract:__ the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
-- __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-- __To provide You__ with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
-- __To manage Your requests:__ To attend and manage Your requests to Us.
+Subject to the next paragraph, we ask that you not send or disclose to us any sensitive personal data (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the DialPine Services or otherwise.
 
-- __For business transfers:__ We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
-- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
+If you send or disclose any sensitive personal data to us when you submit user-generated content to the DialPine Services, you consent to our processing and use of such sensitive personal data in accordance with this policy. If you do not consent to our processing and use of such sensitive personal data, you must not submit such user generated content to our platform.
 
-We may share Your personal information in the following situations:
-
-- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
-- __For business transfers:__ We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-- __With Affiliates:__ We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-- __With business partners:__ We may share Your information with Our business partners to offer You certain products, services or promotions.
-- __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
-- __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
-
-### Retention of Your Personal Data
-
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
-
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
-
-### Transfer of Your Personal Data
-
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
-
-Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
-
-The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
-
-### Delete Your Personal Data
-
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
-
-Our Service may give You the ability to delete certain information about You from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
-
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
-
-### Disclosure of Your Personal Data
-
-#### Business Transactions
-
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
-
-#### Law enforcement
-
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
-
-#### Other legal requirements
-
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
-
-- Comply with a legal obligation
-- Protect and defend the rights or property of the Company
-- Prevent or investigate possible wrongdoing in connection with the Service
-- Protect the personal safety of Users of the Service or the public
-- Protect against legal liability
-
-### Security of Your Personal Data
-
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Children's Privacy
-
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-
-
-## Links to Other Websites
-
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## Changes to this Privacy Policy
-
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
-
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, You can contact us:
-
-
-- By email: support@klayu.com
+By using the DialPine Service, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the DialPine Service. Continued use of the DialPine Service following the posting of changes to this Privacy Policy that do not significantly affect the use or disclosure of your personally identifiable information will mean that you accept those changes.
