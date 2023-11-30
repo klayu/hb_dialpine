@@ -18,15 +18,6 @@ This Privacy Policy relates to information collected by Klayu LLC. DBA DialPine 
 
 If you do not agree to our use of your personal data in line with this policy, please do not use the DialPine Services.
 
-**Scope of this Privacy Policy**
-
-Please be aware that this Privacy Policy does not govern all the information DialPine may process. Our commitment to customers and service providers is governed by a separate Data Protection Addendum. This Privacy Policy is also incorporated into and governed by our Terms of Use.
-Any capitalized words we use in this Privacy Policy that we haven’t defined here will have the same meaning that they’re given in our Terms of Use.
-
-Our commitments to employees are governed by our internal employment policies.
-
-In all instances we are committed to transparency with our customers, employees, and to protecting your data privacy.
-
 **What Information do we Collect?**
 
 You will be required to establish an account in order to take advantage of certain features of the DialPine Service. If you wish to establish an account you will be required to provide us with information (including personally identifiable information and non-personally identifiable information). In addition, we may obtain your personally identifiable information from you if you identify yourself to us by sending us an e-mail with questions or comments.
@@ -77,7 +68,7 @@ You may contact us at support@DialPine.com anytime for any other questions you m
 
 **Where will Data be Transferred?**
 
-Your data, including personal data that we collect from you, may be transferred to, stored at and processed by us and other third parties outside the country in which you reside, including, but not limited to the United States, where data protection and privacy regulations may not offer the same level of protection as in other parts of the world. By using our platform, you agree to this transfer, storing or processing subject to the terms of our Data Protection Addendum. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy. Except as otherwise provided in our Data Protection Addendum, your team's project and task data will never be transferred to third parties. The only data we share with third parties is for analytics, error tracking, and marketing.
+Your data, including personal data that we collect from you, may be transferred to, stored at and processed by us and other third parties outside the country in which you reside, including, but not limited to the United States, where data protection and privacy regulations may not offer the same level of protection as in other parts of the world. By using our platform, you agree to this transfer, storing or processing subject to the terms of use. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy. 
 
 **How Long will Data be Stored?**
 
@@ -97,9 +88,20 @@ We may also use the information gathered to perform statistical analysis of user
 
 **When do we Disclose Information to Third Parties?**
 
-Except as set forth in this Privacy Policy, the Cookie Policy, or the DialPine Data Protection Addendum or as specifically authorized by you, we will not disclose any information to third parties outside of DialPine.
+Except as set forth in this Privacy Policy as specifically authorized by you, we will not disclose any information to third parties outside of DialPine.
 
-Laws and Legal Rights
+We use the following 3rd Parties by consting to our Terms Of Use you consent to Dial Pine sharing your Voice Samples, Text Messages,  Phone Numbers, Name, Date Of Birth with these 3rd Parties in **Category A** with the expicit intent making Phone Based bookings using Dial Pine Service.
+
+**Category A**
+- Twilio : For Phone and SMS related interactions
+- Amazon Web Services : For running our Booking Scheduling Engine
+- Google Calendar and Google Contacts : Where your events and contacts are stored.
+
+**Category B**
+- Google Analytis : For providing traffic insights of our site visitors
+- Google Ads : For advertising our services to customers.
+
+**Laws and Legal Rights**
 
 We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service, to detect fraud, or to protect the safety and/or security of our users, the DialPine Service or the general public. We are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
@@ -107,7 +109,7 @@ We also may be required to disclose an individual’s personal information in re
 
 Outside Contractors
 
-We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the DialPine Service, such as hosting, credit card processing and fraud screening, and mailing list hosting for the DialPine Service. In the course of providing products or services to us, these Outside Contractors may have access to information collected through the DialPine Service, including your personally identifiable information. We require that these contractors agree to (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy or the Data Protection Addendum and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted or as required by law. Please see our Data Protection Addendum for more information about subprocessors.
+We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the DialPine Service, such as hosting, credit card processing and fraud screening, and mailing list hosting for the DialPine Service. In the course of providing products or services to us, these Outside Contractors may have access to information collected through the DialPine Service, including your personally identifiable information. We require that these contractors agree to (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy or the Data Protection Addendum and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted or as required by law. 
 
 Sale of Business
 
@@ -139,7 +141,7 @@ California consumers may make a request pursuant to their rights under the CCPA 
 
 **What Choices do I have regarding the Collection, Disclosure and Distribution of Personally Identifiable Information?**
 
-Except as otherwise described in this Privacy Policy or in the Data Protection Addendum, we will only use personally identifiable information for the purposes described above, or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by clicking the unsubscribe link included at the bottom of all such communications, by visiting DialPine.com/remove, or by contacting us via email.
+Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above, or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by clicking the unsubscribe link included at the bottom of all such communications, by visiting DialPine.com/remove, or by contacting us via email.
 
 Do Not Track
 The term "Do Not Track" refers to an HTTP header offered by certain web browsers to request that websites refrain from tracking the user. We take no action in response to Do Not Track requests.
@@ -173,9 +175,9 @@ Refer to Twilio Hipaa Eligible Services here : https://www.twilio.com/content/da
 
 For HIPAA enabled accounts, no customer voice data is used to train AI Models.
 
-For Non HIPAA enabled accounts, Twilio may use their voice data to improve the accuracy for speech recognition AI Model.
+For Non HIPAA enabled accounts, Twilio may use voice data of callers to improve the accuracy for speech recognition AI Model.
 
-Dial Pine itelf does not train any AI models.
+Dial Pine itelf does not use customer data to train AI models.
 
 **Whom do I Contact if I have any Privacy Questions?**
 

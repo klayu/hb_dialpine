@@ -19,9 +19,9 @@ For everyone else, please select **production mode**
 
 <hr>
 
-Please accept Terms of Use before activating Dial Pine service.
+Please accept Terms of Use and Privacy Policy before activating Dial Pine service.
 
-<input type="checkbox" class="task-list-item"> I agree to Dial Pine Terms of Use 
+<input type="checkbox" class="task-list-item"> I agree to [Dial Pine's Terms Of Use](/tos "Dial Pine's Terms Of Use")
 
 ### Versions
 

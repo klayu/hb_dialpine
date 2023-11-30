@@ -53,7 +53,7 @@ Klayu LLC may revise these Terms of Use for its Website at any time without prio
 
 8. Your Privacy
 
-Please read our Privacy Policy.
+Please read our [Privacy Policy](/privacy-policy "Privacy Policy") .
 
 9. Governing Law
 
