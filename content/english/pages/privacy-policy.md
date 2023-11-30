@@ -160,7 +160,7 @@ If you are an end user in a Workspace not owned by you and wish to update, delet
 
 We may revise this Privacy Policy from time to time. We will not make changes that result in significant additional uses or disclosures of your personally identifiable information without notifying you of such changes via email. We may also make non-significant changes to this Privacy Policy that generally will not significantly affect our use of your personally identifiable information, for which an email is not required. We encourage you to check this page periodically for any changes. If any non-significant changes to this Privacy Policy are unacceptable to you, you must immediately contact us and, stop using the DialPine Service until the issue is resolved. Your continued use of the DialPine Service following the posting of non-significant changes to this Privacy Policy constitutes your acceptance of those changes.
 
-** DialPine AI Additional Terms **
+**DialPine AI Additional Terms**
 
 We use the following services that help us enable AI enabled voice recognition. : 
 - Twlio Studio
@@ -169,11 +169,11 @@ We use the following services that help us enable AI enabled voice recognition. 
 Twlio Studio
 Twilio Programmable Voice - Speech Recognition
 
-If you are a in the medical service business / provider, we sign a "Business Associate Addendum" with you and ensure that we have a BAA with the the above two providers as well. 
+If you are in the medical service business / provider, we will sign a "Business Associate Addendum" with you and ensure that we have a BAA with the the above provider/s as well. 
 
 Refer to Twilio Hipaa Eligible Services here : https://www.twilio.com/content/dam/twilio-com/global/en/other/hippa/pdf/Hipaa_eligible_products_and_services-323.pdf
 
-For HIPAA enabled accounts, no customer voice data is used to train AI Models.
+For HIPAA enabled accounts, NO customer voice data is used to train AI Models by these Twilio.
 
 For Non HIPAA enabled accounts, Twilio may use voice data of callers to improve the accuracy for speech recognition AI Model.
 
