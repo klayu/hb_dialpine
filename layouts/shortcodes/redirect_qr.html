@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <script>
+        // Get the current URL
+        var url = new URL(window.location.href);
+
+
+        // Get the search params from the URL
+        const queryParams = new URLSearchParams(url.search);
+
+        // Create an object from the search params
+        var firstKey = null
+        const paramsObject = {};
+        queryParams.forEach((value, key) => {
+            if (!firstKey) {
+                firstKey = key
+            }
+            paramsObject[key] = value;
+        });
+
+        // Now, paramsObject contains the query parameters as key-value pairs
+
+
+        // Get the query parameters
+        var params = url.search;
+        console.log(params)
+        // console.log(params.c)
+        console.log(url)
+        // console.log(paramsObject)
+        console.log(paramsObject);
+        // Redirect to the external site with the query parameters
+        // window.location.href = "{{ .Get 0 }}" + params;
+        // var finalRed = url
+        console.log("data=" + firstKey)
+        // window.location.href = "{{ .Get 0 }}?" + "data=" + paramsObject["q"];
+        window.location.href = "{{ .Get 0 }}?" + "data=" + firstKey;
+
+    </script>
+</head>
+
+<body></body>
+
+</html>
