@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <center><div id="{{ .Get "id" }}"></div></center>
+    <script src="/js/qrcode.min.js"></script>
+    <script>
+        
+        var qrcode = new QRCode(document.getElementById("{{ .Get "id" }}"), {
+            width: 200,
+            height: 200
+            // width: {{ .Get "size" }},
+            // height: { { .Get "size" } }
+    });
+        // qrcode.makeCode("{{ .Get "url" }}");
+
+
+
+        var url = new URL(window.location.href);
+  // Get the search params from the URL
+  const queryParams = new URLSearchParams(url.search);
+
+// Create an object from the search params
+var firstKey = null
+const paramsObject = {};
+queryParams.forEach((value, key) => {
+    if (!firstKey) {
+        firstKey = key
+    }
+    paramsObject[key] = value;
+});
+console.log("data=" + firstKey) ;      
+        // qrcode.makeCode("goooo");
+        qrcode.makeCode(firstKey);
+        
+    </script>
+
+<body></body>
+
+</html>
