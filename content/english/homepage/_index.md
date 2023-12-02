@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "AI based Phone Bookings for Doctors Office and Small Business"
-  content: "**24/7 Phone bookings** that seamlessly integrates with Google Calendar and Contacts, automatically blocks holidays, sends booking and cancellation notifications and automatically adjusts/reschedules appointments based on staff availability."
+  content: "**24/7 Phone bookings** that seamlessly integrates with Google Calendar and Contacts, automatically blocks holidays, sends booking and cancellation notifications and automatically adjusts/reschedules appointments based on staff availability, works with your existing number & so much more."
   image: "/images/banner.png"
   button:
     enable: true
