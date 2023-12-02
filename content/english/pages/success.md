@@ -19,7 +19,7 @@ The bookings will magically show up in the "New  Calendar" that we just created 
 {{< queryTable params=.Params >}}
 
 {{< notice "tip" >}}
-You will notice a new "Master Config" calendar entry hasee been created in the "New Calender". This is the lifeline of your Phone Booking systesm. Please refer to our FAQ's on how to do advanced customizations.
+You will notice a new "Master Config" calendar entry has been created in the "New Calender". This is the lifeline of your Phone Booking systes. Please refer to our FAQ's on how to do advanced customizations.
 {{< /notice >}}
 
 
