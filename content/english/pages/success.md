@@ -8,8 +8,10 @@ description: "This is meta description"
 draft: false
 ---
 
-Your Phone Bookings integrated with Google Calendar and Google Contacts are **ready**.
+You are **ready**
 
-You can make your first call right now !
+Go ahead and make your first call right now at the below number.
+
+Enter the provider code below when asked.
 
 {{< queryTable params=.Params >}}
