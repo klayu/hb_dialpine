@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Setup in 10 seconds, honest !"
+    label: "Setup in 10 seconds, honest ! (FREE)"
     link: "/enable"
 # link: "contact"    
 # to time compress a video to 15 secs    
