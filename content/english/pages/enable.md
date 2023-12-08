@@ -30,11 +30,11 @@ Please accept Terms of Use and Privacy Policy before activating Dial Pine servic
 
 ##### Development Version
 {{< notice "tip" >}}
-Only select this if you have received an email from us asking you to try our **Fresh Mode**
+Only select this if you have received an email from us asking you to try our <a href="https://f1vawp0e5b.execute-api.us-west-2.amazonaws.com/develop/lam-bk-googlework-api/init"> **Fresh Mode** </a>
 {{< /notice >}}
 
 
-{{< button label="Activate Fresh Mode" link="https://f1vawp0e5b.execute-api.us-west-2.amazonaws.com/develop/lam-bk-googlework-api/init" style="solid" >}}
+<!-- {{< button label="Activate Fresh Mode" link="https://f1vawp0e5b.execute-api.us-west-2.amazonaws.com/develop/lam-bk-googlework-api/init" style="solid" >}} -->
 
 
 
