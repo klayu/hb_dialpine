@@ -10,9 +10,9 @@ draft: false
 
 ### Activate Latest Version
 
-Please accept Terms of Use and Privacy Policy before activating Dial Pine service.
+Please accept Terms of Use and Privacy Policy before activating Dialpine service.
 
-<input type="checkbox" class="task-list-item"> I agree to [Dial Pine's Terms Of Use](/tos "Dial Pine's Terms Of Use")
+<input type="checkbox" class="task-list-item"> I agree to [Dialpine's Terms Of Use](/tos "Dialpine's Terms Of Use")
 
 
 
