@@ -21,9 +21,11 @@ features:
       - "**Early Morning & Late Evening** Allows complete flexibilty to reduce the number of appoitments for any time of day."
       - "**Real-Time Availability Updates** The scheduling system offers real-time updates on doctors' availability, allowing patients to choose from open time slots and reducing the likelihood of scheduling conflicts."
       - "**Automated Appointment Reminders** Patients receive automated reminders via SMS notifications, reducing no-shows and ensuring that they are well-prepared for their upcoming appointments."
-      - "**Insurance Check** If patient is calling after a long time, system verifies that their insurance is uptodate."
+      - "**Insurance Check** If patient is calling after a long time, system verifies that their insurance is up-to-date."
+      - "**Automatica Blocked Holidays** National holidays blocked for next 5 years, one less thing to worry about"
+      - "**Room vs Doctor Availabilty** Ability to have maximum number of patients in office while only allowing for a smaller number of new patients (e.g. 10 rooms but only 3 doctors)"
       - "**Blacklist Numbers** Block certian numbers from ever reaching your offce."
-      - "**Auto Reschdule On Staff PTO**"
+      
     button:
       enable: true
       label: "Setup in 10 seconds, honest ! (FREE)"
