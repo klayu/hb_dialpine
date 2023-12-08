@@ -19,9 +19,11 @@ The bookings will magically show up in the "New  Calendar" that we just created 
 {{< queryTable params=.Params >}}
 
 {{< notice "tip" >}}
-A New Calendar by the name "DIALPINE" within you Google Calendar has been created.
+A New Calendar by the name "DIALPINE" within your Google Calendar has been created.
+
 
 You will also notice that a new "Master Config" calendar event has also been created within "DIALPINE" calendar. This is the lifeline of your Phone Booking system. 
+
 
 Please refer to our FAQ's on how to do advanced customizations.
 {{< /notice >}}
