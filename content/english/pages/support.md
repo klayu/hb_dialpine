@@ -14,7 +14,7 @@ Please post a question in the respective support groups.
 
 {{< button label="Paid Plan Support" link="https://groups.google.com/g/dialpine-support" style="solid" >}}
 
-</br>
+</br></br>
 
 {{< button label="Free Plan Support" link="https://groups.google.com/g/dialpine_free_support" style="solid" >}}
 
