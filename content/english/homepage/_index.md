@@ -22,9 +22,10 @@ features:
       - "**Real-Time Availability Updates** The scheduling system offers real-time updates on doctors' availability, allowing patients to choose from open time slots and reducing the likelihood of scheduling conflicts."
       - "**Automated Appointment Reminders** Patients receive automated reminders via SMS notifications, reducing no-shows and ensuring that they are well-prepared for their upcoming appointments."
       - "**Insurance Check** If patient is calling after a long time, system verifies that their insurance is uptodate."
+      - "**Blacklist Numbers** Block certian numbers from ever reaching your offce."
       - "**Auto Reschdule On Staff PTO**"
     button:
       enable: true
-      label: "Setup in 10 seconds, honest !"
+      label: "Setup in 10 seconds, honest ! (FREE)"
       link: "/enable"
 ---
