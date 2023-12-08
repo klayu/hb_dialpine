@@ -16,6 +16,12 @@ name = "Activate"
 url = "enable"
 weight = 3
 
+[[main]]
+name = "Support"
+url = "support"
+weight = 4
+
+
 # [[main]]
 # weight = 4
 # name = "Pages"
