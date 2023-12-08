@@ -13,12 +13,12 @@ testimonials:
   - name: "Mark"
     designation: "another happy user"
     avatar: "/images/test1-m.jpeg"
-    content: "Wow, they provide your with a extension for as long as you want."
+    content: "Wow, they provide your with an provider extension for as long as you want."
 
   - name: "Suzy"
     designation: "early adopter"
     avatar: "/images/test1-f.jpeg"
-    content: "One of the least complicated systems I have user. Plus it works with Google Calendar and Contacts"
+    content: "One of the least complicated systems I have ever used. Plus it works with Google Calendar and Contacts"
 
 # don't create a separate page
 _build:
