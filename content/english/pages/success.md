@@ -34,4 +34,4 @@ P.S> Google Shortcuts
 [Open your Google Contacts](https://contacts.google.com/)
 
 
-{{< button label="Contact Us for Pricing" link="/contact" style="solid" >}}
+{{< button label="View Pricing" link="/pricing" style="solid" >}}
