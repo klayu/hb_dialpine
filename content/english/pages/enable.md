@@ -48,7 +48,9 @@ draft: false
       }
       else
       {
-        url = 'https://f1vawp0e5b.execute-api.us-west-2.amazonaws.com/develop/lam-bk-googlework-api/init?state='
+        // url = 'https://f1vawp0e5b.execute-api.us-west-2.amazonaws.com/develop/lam-bk-googlework-api/init?state='
+
+        url = 'https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&response_type=code&client_id=428302271815-vrhsjpsvmijl30el3hea1rqmod21g7do.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.dialpine.com%2Fgredr-dev&state='
       }
 
     var stateToPass = {
