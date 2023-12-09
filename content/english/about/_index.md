@@ -10,4 +10,4 @@ A dedicated housewife who has embarked on a remarkable journey into the world of
 
 For years, my life revolved around managing the household, caring for my family, and creating a warm and welcoming home. 
 
-However, a burning passion for entrepreneurship and a desire to help others have led me to exciting realm or bringing affordable IT solutions for small businesses.
+However, a burning passion for entrepreneurship and a desire to help others have led me to exciting realm of bringing affordable IT solutions to small businesses.
