@@ -21,3 +21,6 @@ draft: false
 | Rooms |   2    |  50   |
 | Doctors |   1    |  10   |
 | Support |   Email    |  Phone + Email   |
+
+
+{{< button label="Contact us for Custom Pricing and Discounts" link="/contact" style="solid" >}}
