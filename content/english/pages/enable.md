@@ -106,7 +106,7 @@ Please accept Terms of Use and Privacy Policy before activating Dialpine service
 
 {{< notice "Development Version" >}}
 
-You can activate our <a href="#" onclick="redirectToUrl(false)"> **Development Version**</a> here. Only select this if you received communication from us requesting you to chose this.
+You can activate our <a href="#" onclick="redirectToUrl(false)">**Development Version**</a> here. Only select this if you received communication from us requesting you to chose this.
 {{< /notice >}}
 
 
