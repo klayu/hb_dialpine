@@ -8,7 +8,7 @@ description: "This is meta description"
 draft: false
 ---
 
-Activating Dialpine DEVELPMENT .......... please wait
+Activating Dialpine DEVELOPMENT VERSION .......... please wait
 </br></br></br>
 DO NOT CLOSE THIS WINDOW
 <!-- {{< redirect "https://accounts.google.com/o/oauth2/v2/auth" >}} -->
