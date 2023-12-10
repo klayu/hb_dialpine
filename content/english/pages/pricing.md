@@ -14,8 +14,8 @@ draft: false
 | Calls & Bookings ( usage based) |   $0    | $500 /month ( approx. )|
 | **Total**         |   **$0**              |   **$600 /month** |
 | **Features**
-| Bookings          |   10 /month           |  300 /month included </br>(then $0.50 /booking)   |
-| Incoming Call Mins </br>when sent to operator|   30 /month           |  3000 mins /month included</br>(then $0.02 /minute)   |
+| Bookings          |   10 /month           |  500 /month included </br>(then $0.50 /booking)   |
+| Incoming Call Mins </br>when sent to operator|   30 /month           |  5000 mins /month included</br>(then $0.02 /minute)   |
 | Use own number    |   No                  |  Yes   |
 | Text Reminders    |   No                  |  Yes   |
 | Rooms             |   2                   |  50   |
