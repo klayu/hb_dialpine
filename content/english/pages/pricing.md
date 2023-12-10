@@ -11,11 +11,11 @@ draft: false
 | Pricing           |      Free (Trial)             |  Paid |
 | -------------     | :-----------:         | ----: |
 | License Fees      | $0                    | $100 /month      |
-| Calls & Bookings ( usage based) |   $0    | $500 /month ( approx. )|
+| Calls & Bookings ( usage based) |   $0    | $500 /month <br>( + overages if needed  )|
 | **Total**         |   **$0**              |   **$600 /month** |
 | **Features**
 | Bookings          |   10 /month           |  500 /month included </br>(then $0.50 /booking)   |
-| Incoming Call Mins </br>when sent to operator|   30 /month           |  5000 mins /month included</br>(then $0.02 /minute)   |
+| Incoming Call Mins </br>when sent to operator|   300 mins /month           |  5000 mins /month included</br>(then $0.02 /minute)   |
 | Use own number    |   No                  |  Yes   |
 | Text Reminders    |   No                  |  Yes   |
 | Rooms             |   2                   |  50   |
