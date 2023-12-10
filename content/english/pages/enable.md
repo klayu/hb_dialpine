@@ -75,7 +75,7 @@ draft: false
 
 ### Activate Latest Version
 
-Please accept Terms of Use and Privacy Policy before activating Dialpine service.
+Please accept Terms of Use before activating Dialpine service.
 
 <input id="tos" type="checkbox" class="task-list-item"> I agree to [Dialpine's Terms Of Use](/tos "Dialpine's Terms Of Use")
 
