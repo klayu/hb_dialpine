@@ -1,5 +1,5 @@
 ---
-title: "Dial Pine App"
+title: "Dialpine App"
 # meta title
 meta_title: ""
 # meta description
