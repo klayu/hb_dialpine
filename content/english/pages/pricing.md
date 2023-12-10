@@ -8,19 +8,19 @@ description: "This is meta description"
 draft: false
 ---
 
-| Pricing        |      Free      |  Paid |
-| ------------- | :-----------: | ----: |
-| License Fees      | $0 | $100 /month |
-| Calls & Bookings      |   $0    |   $500 /month |
-| **Total**      |   **$0**    |   **$600 /month** |
+| Pricing           |      Free (Trial)             |  Paid |
+| -------------     | :-----------:         | ----: |
+| License Fees      | $0                    | $100 /month      |
+| Calls & Bookings ( usage based) |   $0    | $500 /month ( approx. )|
+| **Total**         |   **$0**              |   **$600 /month** |
 | **Features**
-| Bookings |   30 /month    |  100 /month   |
-| Calls |   30 /month    |  200 /month   |
-| Use own number |   No    |  Yes   |
-| Text Reminders |   No    |  Yes   |
-| Rooms |   2    |  50   |
-| Doctors |   1    |  10   |
-| Support |   Email    |  Phone + Email   |
+| Bookings          |   10 /month           |  300 /month included </br>(then $0.50 /booking)   |
+| Incoming Call Mins </br>when sent to operator|   30 /month           |  3000 mins /month included</br>(then $0.02 /minute)   |
+| Use own number    |   No                  |  Yes   |
+| Text Reminders    |   No                  |  Yes   |
+| Rooms             |   2                   |  50   |
+| Doctors           |   1                   |  10   |
+| Support           |   Google Group        |  Phone + Email   |
 
 
 {{< button label="Contact us for Custom Pricing and Discounts" link="/contact" style="solid" >}}
