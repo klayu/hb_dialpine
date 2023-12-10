@@ -88,6 +88,8 @@ Please accept Terms of Use and Privacy Policy before activating Dialpine service
     <option value="America/Chicago">Central Time (CT) - Chicago</option>
     <option value="America/Denver">Mountain Time (MT) - Denver</option>
     <option value="Pacific/Honolulu">Hawaii-Aleutian Time (HST) - Honolulu</option>
+    <option value="America/Anchorage">Alaska Time (AKT) - Anchorage</option>
+    <option value="America/Puerto_Rico">Atlantic Standard Time (AST) - San Juan, Puerto Rico</option>
     <!-- Add more options for other timezones as needed -->
   </select>
 
