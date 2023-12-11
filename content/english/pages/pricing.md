@@ -18,8 +18,8 @@ draft: false
 | Incoming Call Mins </br>when sent to operator|   300 mins /month           |  5000 mins /month included</br>(then $0.02 /minute)   |
 | Use own number    |   No                  |  Yes   |
 | Text Reminders    |   No                  |  Yes   |
-| Rooms             |   upto 2                   |  upto 50   |
-| Doctors           |   upto 1                   |  upto 10   |
+| Rooms             |   upto 5                   |  upto 50   |
+| Doctors           |   upto 3                   |  upto 10   |
 | Support           |   Google Group        |  Phone + Email   |
 
 
