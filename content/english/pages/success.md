@@ -23,7 +23,7 @@ A New Calendar by the name "DIALPINE" has been created within your Google Calend
 </br></br>
 You will also notice that a new "Master Config" calendar event has also been created within "DIALPINE" calendar. This is the lifeline of your Phone Booking system. 
 </br></br>
-Please refer to FAQ's for advanced customizations.
+Please refer to [FAQs](/faqs/) for advanced customizations.
 {{< /notice >}}
 
 
