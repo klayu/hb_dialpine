@@ -131,6 +131,7 @@ We take precautions to protect the security of your information. We have physica
 
 Personally identifiable information collected on the Dialpine Service may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and the Dialpine Service may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data. To the fullest extent allowed by applicable law, by using the Dialpine Service and submitting such information on it, you voluntarily consent to the trans-border transfer and hosting of such information. To the fullest extent allowed by applicable law, if you are a User accessing the Dialpine Service from a jurisdiction with laws or regulations governing personal data collection, use, and disclosure that differ from those of the United States, please be advised that all aspects of the Dialpine Service are governed by the internal laws of the United States and the State of California, USA, regardless of your location.
 
+## SMS
 SMS Opt-In data or Consent is NOT shared with any third party providers except as absolutely necessary for the minimum working of the service. Dialpine - as metioned elsewhere - uses Amazon Web Servces as its IT Clould service provider.
 
 California Privacy Rights
