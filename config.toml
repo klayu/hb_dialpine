@@ -9,6 +9,7 @@ enableRobotsTXT = true
 disqusShortname = "relaxedincome"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
+
 #
 [permalinks]
   posts = "/:filename"
@@ -66,6 +67,7 @@ DefaultContentLanguageInSubdir = false
   system = "disqus"
 [build]
   writeStats = true
+  timeout = 60000
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 [markup]
